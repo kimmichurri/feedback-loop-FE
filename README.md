@@ -6,13 +6,13 @@ This application allows instructors to create surveys for students in any active
 
 ## Deployment
 
-Turing Feekback is deployed to Heroku. Try it out [here](https://turing-feedback-loop.herokuapp.com/). 
+Try it out [here](https://turingfeedback.com/). 
 
 ## Installation Steps
 
 Frontend: 
 
-```git clone https://github.com/taylorsperry/feedback-loop-FE.git```
+```git clone https://github.com/kimmichurri/feedback-loop-FE.git```
 
 ```npm install```
 
